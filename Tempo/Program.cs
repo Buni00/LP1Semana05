@@ -23,7 +23,7 @@ namespace Tempo
            float time1sec = crono1.ElapsedMilliseconds / 100f;
            float time2sec = crono2.ElapsedMilliseconds / 100f;
            
-
+            
            Console.WriteLine(time1sec);
            Console.WriteLine(time2sec);
 
