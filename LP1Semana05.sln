@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tempo", "Tempo\Tempo.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomTest", "RandomTest\RandomTest.csproj", "{E5D58031-D35B-4336-89E0-2FB9E212A222}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomDice", "RandomDice\RandomDice.csproj", "{0B58DDAB-3692-493C-B3E5-93A780EE9F84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{E5D58031-D35B-4336-89E0-2FB9E212A222}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5D58031-D35B-4336-89E0-2FB9E212A222}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5D58031-D35B-4336-89E0-2FB9E212A222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B58DDAB-3692-493C-B3E5-93A780EE9F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B58DDAB-3692-493C-B3E5-93A780EE9F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B58DDAB-3692-493C-B3E5-93A780EE9F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B58DDAB-3692-493C-B3E5-93A780EE9F84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
