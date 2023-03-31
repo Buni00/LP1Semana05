@@ -29,9 +29,7 @@ namespace LowerUnion
                     sb.Append(args[i]).Append("_");
                 else
                     sb.Append(args[i]);
-                
             }
-            
             Console.WriteLine(sb);
                
 
